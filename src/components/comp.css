@@ -1,0 +1,21 @@
+.upper{
+    width: 30vh;
+    height: 5vh;
+    background-color: gray;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 1vh;
+    text-align: center;
+    cursor: pointer;
+}
+.hideDiv{
+    width: 30vh;
+    font-size: 2vh;
+    background-color: gray;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 1vh;
+}
+.someHideDiv{
+    display: none;
+}
